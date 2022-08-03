@@ -21,8 +21,15 @@
 //												 constant NUM_RECTANGLES.
 //											b) Write each rectangle to the display using
 //												 the function write
+//												 HINT: cRectangle.write (cout); works because
+//															 cout "is-a" ostream object which I will
+//															 get into later.
 //						 TODO #6: a) Read a single rectangle from the file into
 //												 the variable cRectangle
+//												 HINT: cRectangle.read (cin); and
+//															 cRectangle.read (inStream); are ways to
+//														   read from the keyboard and file
+//															 respectively.
 //											b) Write the rectangle to the display using
 //												 write
 //*********************************************************************
