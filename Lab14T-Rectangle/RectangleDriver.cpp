@@ -16,7 +16,7 @@
 //												 the .cpp file, and test
 //						 TODO #4:	a) Do the same for the second constructor
 //						 TODO #5:	a) Fill the array of rectangles cRectangles
-//												 with rectangles of 1x2, 2x3, 2x4, and so on
+//												 with rectangles of 1x2, 2x3, 3x4, and so on
 //												 for as many rectangles specified in the 
 //												 constant NUM_RECTANGLES.
 //											b) Write each rectangle to the display using
